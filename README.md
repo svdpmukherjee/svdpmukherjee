@@ -1,10 +1,11 @@
-# Hi, I am Suvadeep (a.k.a Suvo)
-
-🔗 **Portfolio → [svdpmukherjee.github.io](https://svdpmukherjee.github.io)** — projects, experience and the full story.
+# Hi, I am Suvadeep Mukherjee (a.k.a Suvo)
 
 I design, build and validate digital products end to end: working out what's worth building, shipping the full-stack app, and measuring whether it actually helps. I combine **user research, applied AI and hands-on engineering**.
 
 Background: PhD in Human-Computer Interaction, and a recently completed postdoc at **SnT, University of Luxembourg**, researching the human side of cybersecurity (phishing and usable security). Now looking for **technical product development roles**.
+
+🔗 **Portfolio of Suvadeep Mukherjee → [svdpmukherjee.github.io](https://svdpmukherjee.github.io)** — projects, experience and the full story.
+
 
 ### What I do, end to end
 
